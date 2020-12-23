@@ -1,0 +1,9 @@
+{
+	"name": "mod_test",
+	"title": "A test module",
+	"Description": "More stuff",
+	"author": "GravyBoat",
+	"version": ".1",
+	"minimumCoreVersionn": "0.7.0"
+
+}
